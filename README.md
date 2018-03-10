@@ -1,1 +1,1 @@
-# AlgoCasts
+# Going through exercises from AlgoCasts
